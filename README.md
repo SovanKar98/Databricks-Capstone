@@ -9,7 +9,9 @@ This repository contains the capstone projects to gain Databricks Partner Accred
 - Databricks Essential Capstone
 
 
+
 **View my Databricks Badges and Certificates --**
+
 
 
 [![INSERT YOUR GRAPHIC HERE](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47918741)]()
