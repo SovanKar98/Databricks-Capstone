@@ -2,7 +2,8 @@
 
 This repository contains the capstone projects to gain Databricks Partner Accreditions.
 
- Markup : * Capstone Projects done -- 
-              * Databricks Foundation Capstone
-              * Databricks Essential Capstone
- 
+
+**Capstone Projects done --**
+
+- Databricks Foundation Capstone
+- Databricks Essential Capstone
